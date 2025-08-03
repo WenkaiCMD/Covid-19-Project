@@ -1,2 +1,2 @@
-# Covid-19 Project
-Covid-19 Dataset for Malaysia
+# Covid-19 Dataset
+Covid-19 Dataset in Malaysia

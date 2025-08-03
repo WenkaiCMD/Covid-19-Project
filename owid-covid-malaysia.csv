@@ -1,0 +1,6 @@
+iso_code,continent,location,date,total_cases,new_cases,total_deaths,new_deaths
+MYS,Asia,Malaysia,2021-08-01,1000000,10000,8000,50
+MYS,Asia,Malaysia,2021-08-02,1010000,10000,8050,50
+MYS,Asia,Malaysia,2021-08-03,1025000,15000,8100,50
+MYS,Asia,Malaysia,2021-08-04,1040000,15000,8150,50
+MYS,Asia,Malaysia,2021-08-05,1055000,15000,8200,50
